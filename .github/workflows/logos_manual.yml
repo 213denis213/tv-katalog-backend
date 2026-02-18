@@ -1,0 +1,33 @@
+name: Ročno posodabljanje logotipov
+
+on:
+  workflow_dispatch: # Ta vrstica omogoči gumb "Run workflow"
+
+permissions:
+  contents: write # Dovoljenje za shranjevanje JSON datoteke
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout kode
+        uses: actions/checkout@v3
+
+      - name: Namestitev Pythona
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Namestitev knjižnic
+        run: pip install requests beautifulsoup4
+
+      - name: Zagon scraperja za logotipe
+        run: python get_logos.py
+
+      - name: Shrani logotipe v repozitorij
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add trgovine_logotipi.json
+          git commit -m "Ročna posodobitev logotipov" || echo "Ni sprememb"
+          git push origin main
