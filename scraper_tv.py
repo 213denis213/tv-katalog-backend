@@ -31,7 +31,7 @@ NASTAVITVE_TRGOVIN = {
 
 ST_KATALOGOV_NA_TRGOVINO = 2  
 HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-MIN_FILE_SIZE = 80000  # Minimalna velikost v bajtih (80 KB)
+MIN_FILE_SIZE = 80000  # 80 KB
 
 # ==========================================================
 # 2. LOGIKA
@@ -71,18 +71,18 @@ def get_catalog_content(url, country_code):
         for img in catalog_area.find_all('img'):
             src = img.get('data-src') or img.get('src')
             if src:
-                src_lower = src.lower()
-                # Filtriranje po končnici
+                full_img_url = urljoin(BASE_URLS[country_code], src)
+                src_lower = full_img_url.lower()
+
+                # --- KLJUČNI POPRAVEK: Blokada logotipov trgovin ---
+                # Preskoči vse, kar je v mapi /images/shops/ ali /media/
+                if "/images/shops/" in src_lower or "/media/" in src_lower or "logo" in src_lower:
+                    continue
+
+                # Filtriranje po končnici (strani so .jpg ali .jpeg)
                 if any(ext in src_lower for ext in ['.jpg', '.jpeg']):
-                    # Strogo izločanje logotipov po imenu
-                    if any(x in src_lower for x in ["logo", "icon", "thumb", "social", "media", "png"]):
-                        continue
-                    
-                    full_img_url = urljoin(BASE_URLS[country_code], src)
-                    
-                    # PREVERJANJE VELIKOSTI (ignoriraj manjše od 80KB)
                     try:
-                        # Pošljemo samo HEAD zahtevek, da dobimo velikost brez prenosa slike
+                        # Preverjanje velikosti (80KB+)
                         head = requests.head(full_img_url, headers=HEADERS, timeout=5)
                         size = int(head.headers.get('Content-Length', 0))
                         
@@ -90,8 +90,8 @@ def get_catalog_content(url, country_code):
                             if full_img_url not in images:
                                 images.append(full_img_url)
                     except:
-                        # Če HEAD ne uspe, sliko dodamo le, če URL zgleda kot prava stran
-                        if "featured_image" in src_lower or "/m2/" in src_lower:
+                        # Če HEAD ne uspe, preveri vsaj če je v URL-ju vzorec za stran
+                        if any(pattern in src_lower for pattern in ["featured_image", "/m2/", "catalog"]):
                             if full_img_url not in images:
                                 images.append(full_img_url)
         
@@ -134,7 +134,7 @@ def main():
                 for trgovina, urls in links_per_store.items():
                     for link in urls[:ST_KATALOGOV_NA_TRGOVINO]:
                         data = get_catalog_content(link, d_kod)
-                        if data and data['slike']: # Dodamo le, če smo našli slike > 80KB
+                        if data and data['slike']:
                             baza_podatkov[d_kod][kat].append(data)
                             print(f"    Dodan: {data['naslov']} ({len(data['slike'])} slik)")
             except Exception as e:
@@ -142,7 +142,7 @@ def main():
 
     with open('katalogi.json', 'w', encoding='utf-8') as f:
         json.dump(baza_podatkov, f, ensure_ascii=False, indent=4)
-    print("\nUspeh! Datoteka 'katalogi.json' je pripravljena.")
+    print("\nUspeh! Datoteka 'katalogi.json' je očiščena in pripravljena.")
 
 if __name__ == "__main__":
     main()
