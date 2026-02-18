@@ -1,0 +1,32 @@
+name: Dnevno posodabljanje JSON
+
+on:
+  schedule:
+    - cron: '0 5 * * *' # To pomeni vsak dan ob 5:00 zjutraj
+  workflow_dispatch: # Omogoča, da poljubno zaženeš sam s klikom na gumb
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout kode
+        uses: actions/checkout@v3
+
+      - name: Namestitev Pythona
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Namestitev knjižnic
+        run: pip install requests beautifulsoup4
+
+      - name: Zagon skripte
+        run: python scraper_tv.py
+
+      - name: Shrani spremembe v repozitorij
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add katalogi.json
+          git commit -m "Posodobitev katalogov" || echo "Ni sprememb"
+          git push
