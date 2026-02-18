@@ -68,11 +68,23 @@ def get_catalog_content(url, country_code):
         h1 = soup.find('h1').text.strip() if soup.find('h1') else "Katalog"
         
         images = []
-        for img in soup.find_all('img'):
+        # Poiščemo glavni kontejner kataloga, da ne zajamemo logotipov na dnu strani
+        # Večina teh strani uporablja poseben div za prikaz strani kataloga
+        catalog_area = soup.find('div', {'class': 'catalog-view'}) or soup
+        
+        for img in catalog_area.find_all('img'):
             src = img.get('data-src') or img.get('src')
-            if src and any(ext in src for ext in ['.jpg', '.jpeg', '.png']):
-                if not any(x in src.lower() for x in ["logo", "icon", "thumb", "social"]):
-                    images.append(urljoin(BASE_URLS[country_code], src))
+            if src:
+                src_lower = src.lower()
+                # 1. Preverimo končnico (večinoma so strani .jpg)
+                if any(ext in src_lower for ext in ['.jpg', '.jpeg']):
+                    # 2. Strogo izločimo vse, kar diši po logotipih ali ikonah
+                    if any(x in src_lower for x in ["logo", "icon", "thumb", "social", "media", "png"]):
+                        continue
+                    
+                    full_img_url = urljoin(BASE_URLS[country_code], src)
+                    if full_img_url not in images:
+                        images.append(full_img_url)
         
         return {
             "trgovina": get_store_name_clean(h1),
