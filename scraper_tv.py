@@ -17,18 +17,6 @@ NASTAVITVE_TRGOVIN = {
         "dom-in-vrt": ["bauhaus", "harvey-norman", "dipo", "ikea", "inpos", "jysk", "kalia", "megadom", "obi", "momax", "rutar", "xxxl-lesnina", "zivex"],
         "drogerije-kozmetika": ["avon", "dm-drogerie-markt", "muller", "oriflame"],
         "drugo": ["baby-center", "petrol", "tedi"],
-    },
-    "hr": {
-        "prehrana": ["konzum", "lidl", "kaufland", "spar", "plodine", "tommy"],
-        "tehnika": ["pevex", "elipso", "sancta-domenica"]
-    },
-    "at": {
-        "lebensmittel": ["hofer", "lidl", "billa", "spar", "penny", "mpreis"],
-        "elektronik": ["media-markt", "conrad", "hartlauer"]
-    },
-    "it": {
-        "alimentari": ["eurospin", "conad", "coop", "lidl", "carrefour", "esselunga"],
-        "elettronica": ["media-world", "unieuro", "euronics"]
     }
 }
 
