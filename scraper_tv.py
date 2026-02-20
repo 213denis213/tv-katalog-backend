@@ -12,8 +12,8 @@ from datetime import datetime
 
 NASTAVITVE_TRGOVIN = {
     "si": {
-        "zivila": ["hofer", "lidl", "spar", "mercator", "eurospin", "jager", "tus"],
-        "tehnika": ["big-bang", "harvey-norman", "m-tehnika"]
+        "zivila": ["hofer", "lidl", "spar", "mercator", "eurospin", "jager", "tus", "e-leclerc", "ahac", "bofrost"],
+        "tehnika": ["big-bang", "bela-plus", "conrad", "merkur"]
     },
     "hr": {
         "prehrana": ["konzum", "lidl", "kaufland", "spar", "plodine", "tommy"],
