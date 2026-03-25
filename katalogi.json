@@ -409,34 +409,95 @@
             },
             {
                 "trgovina": "JAGER",
-                "naslov": "JAGER katalog - Katalog živila (2026-03-18 - 2026-03-24)",
-                "datum": "2026-03-18",
+                "naslov": "JAGER katalog - Katalog kmetijske mehanizacije Muta (2026-02-03)",
+                "datum": "2026-02-03",
                 "slike": [
-                    "https://priserocdn.com/m2/si/09f1d4bacd603fee16c527475b44396fe4303d356cdfa2a3919d3a6f08622ed0/0.jpg",
-                    "https://priserocdn.com/m2/si/09f1d4bacd603fee16c527475b44396fe4303d356cdfa2a3919d3a6f08622ed0/1.jpg",
-                    "https://priserocdn.com/m2/si/09f1d4bacd603fee16c527475b44396fe4303d356cdfa2a3919d3a6f08622ed0/2.jpg",
-                    "https://priserocdn.com/m2/si/09f1d4bacd603fee16c527475b44396fe4303d356cdfa2a3919d3a6f08622ed0/3.jpg",
-                    "https://priserocdn.com/m2/si/09f1d4bacd603fee16c527475b44396fe4303d356cdfa2a3919d3a6f08622ed0/4.jpg",
-                    "https://priserocdn.com/m2/si/09f1d4bacd603fee16c527475b44396fe4303d356cdfa2a3919d3a6f08622ed0/5.jpg",
-                    "https://priserocdn.com/m2/si/09f1d4bacd603fee16c527475b44396fe4303d356cdfa2a3919d3a6f08622ed0/6.jpg",
-                    "https://priserocdn.com/m2/si/09f1d4bacd603fee16c527475b44396fe4303d356cdfa2a3919d3a6f08622ed0/7.jpg",
-                    "https://priserocdn.com/m2/si/09f1d4bacd603fee16c527475b44396fe4303d356cdfa2a3919d3a6f08622ed0/8.jpg",
-                    "https://priserocdn.com/m2/si/09f1d4bacd603fee16c527475b44396fe4303d356cdfa2a3919d3a6f08622ed0/9.jpg",
-                    "https://priserocdn.com/m2/si/09f1d4bacd603fee16c527475b44396fe4303d356cdfa2a3919d3a6f08622ed0/10.jpg",
-                    "https://priserocdn.com/m2/si/09f1d4bacd603fee16c527475b44396fe4303d356cdfa2a3919d3a6f08622ed0/11.jpg",
-                    "https://priserocdn.com/m2/si/09f1d4bacd603fee16c527475b44396fe4303d356cdfa2a3919d3a6f08622ed0/12.jpg",
-                    "https://priserocdn.com/m2/si/09f1d4bacd603fee16c527475b44396fe4303d356cdfa2a3919d3a6f08622ed0/13.jpg",
-                    "https://priserocdn.com/m2/si/09f1d4bacd603fee16c527475b44396fe4303d356cdfa2a3919d3a6f08622ed0/14.jpg"
+                    "https://priserocdn.com/m2/si/86dbfb74accd905f682b8e3e9986ea55fa00420da6f9d5f1ceecc823007dcb46/0.jpg",
+                    "https://priserocdn.com/m2/si/86dbfb74accd905f682b8e3e9986ea55fa00420da6f9d5f1ceecc823007dcb46/1.jpg",
+                    "https://priserocdn.com/m2/si/86dbfb74accd905f682b8e3e9986ea55fa00420da6f9d5f1ceecc823007dcb46/2.jpg",
+                    "https://priserocdn.com/m2/si/86dbfb74accd905f682b8e3e9986ea55fa00420da6f9d5f1ceecc823007dcb46/3.jpg"
                 ]
             },
             {
                 "trgovina": "JAGER",
-                "naslov": "JAGER katalog - Katalog tekstil (2026-03-18 - 2026-03-24)",
-                "datum": "2026-03-18",
+                "naslov": "JAGER katalog - Katalog savne in masažni bazeni (2024-11-18)",
+                "datum": "2024-11-18",
                 "slike": [
-                    "https://priserocdn.com/m2/si/63822c9f4a9112c3a56e5e4ee3ba501ec8e53be9f95e5ad33549c70facca278f/0.jpg",
-                    "https://priserocdn.com/m2/si/63822c9f4a9112c3a56e5e4ee3ba501ec8e53be9f95e5ad33549c70facca278f/1.jpg",
-                    "https://priserocdn.com/m2/si/63822c9f4a9112c3a56e5e4ee3ba501ec8e53be9f95e5ad33549c70facca278f/2.jpg"
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/0.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/1.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/2.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/3.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/4.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/5.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/6.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/7.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/8.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/9.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/10.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/11.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/12.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/13.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/14.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/15.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/16.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/17.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/18.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/19.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/20.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/21.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/22.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/23.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/24.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/25.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/26.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/27.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/28.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/29.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/30.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/31.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/32.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/33.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/34.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/35.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/36.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/37.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/38.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/39.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/40.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/41.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/42.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/43.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/44.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/45.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/46.jpg",
+                    "https://priserocdn.com/m2/si/8444a16752901b2058700ac1a18093b662f6c8969ce6b662da93fd823aba3196/47.jpg"
+                ]
+            },
+            {
+                "trgovina": "TUŠ",
+                "naslov": "TUŠ katalog - AKCIJSKI KATALOG (2026-03-25 - 2026-03-31)",
+                "datum": "2026-03-25",
+                "slike": [
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/0.jpg",
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/1.jpg",
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/2.jpg",
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/3.jpg",
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/4.jpg",
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/5.jpg",
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/6.jpg",
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/7.jpg",
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/8.jpg",
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/9.jpg",
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/10.jpg",
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/11.jpg",
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/12.jpg",
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/13.jpg",
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/14.jpg",
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/15.jpg",
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/16.jpg",
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/17.jpg",
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/18.jpg",
+                    "https://priserocdn.com/m2/si/568f112515acaf61c9e8eaa858acce55355a46158be4c733ab0fbde0c6be8d9b/19.jpg"
                 ]
             },
             {
@@ -455,34 +516,19 @@
                 ]
             },
             {
-                "trgovina": "TUŠ",
-                "naslov": "TUŠ katalog - MOJIH 10 (2026-01-09 - 2026-03-30)",
-                "datum": "2026-01-09",
+                "trgovina": "E.LECLERC",
+                "naslov": "E.LECLERC katalog - Katalog Tekstil (2026-03-25 - 2026-04-04)",
+                "datum": "2026-03-25",
                 "slike": [
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/0.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/1.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/2.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/3.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/4.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/5.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/6.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/7.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/8.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/9.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/10.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/11.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/12.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/13.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/14.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/15.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/16.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/17.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/18.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/19.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/20.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/21.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/22.jpg",
-                    "https://priserocdn.com/m2/si/09be55cb52e58daf552fab59203fa4539e391806fffc0c552265f9acffd0613f/23.jpg"
+                    "https://priserocdn.com/m2/si/9f55110035e86c5fdbb36dabb784c3276a662023c3947568e7ce36296370e2c6/0.jpg",
+                    "https://priserocdn.com/m2/si/9f55110035e86c5fdbb36dabb784c3276a662023c3947568e7ce36296370e2c6/1.jpg",
+                    "https://priserocdn.com/m2/si/9f55110035e86c5fdbb36dabb784c3276a662023c3947568e7ce36296370e2c6/2.jpg",
+                    "https://priserocdn.com/m2/si/9f55110035e86c5fdbb36dabb784c3276a662023c3947568e7ce36296370e2c6/3.jpg",
+                    "https://priserocdn.com/m2/si/9f55110035e86c5fdbb36dabb784c3276a662023c3947568e7ce36296370e2c6/4.jpg",
+                    "https://priserocdn.com/m2/si/9f55110035e86c5fdbb36dabb784c3276a662023c3947568e7ce36296370e2c6/5.jpg",
+                    "https://priserocdn.com/m2/si/9f55110035e86c5fdbb36dabb784c3276a662023c3947568e7ce36296370e2c6/6.jpg",
+                    "https://priserocdn.com/m2/si/9f55110035e86c5fdbb36dabb784c3276a662023c3947568e7ce36296370e2c6/7.jpg",
+                    "https://priserocdn.com/m2/si/9f55110035e86c5fdbb36dabb784c3276a662023c3947568e7ce36296370e2c6/8.jpg"
                 ]
             },
             {
@@ -538,20 +584,6 @@
                     "https://priserocdn.com/m2/si/30455ddfe84e85d7be15649a81fedcd2594434e5a2f962ea1e5e7de82d1446ea/45.jpg",
                     "https://priserocdn.com/m2/si/30455ddfe84e85d7be15649a81fedcd2594434e5a2f962ea1e5e7de82d1446ea/46.jpg",
                     "https://priserocdn.com/m2/si/30455ddfe84e85d7be15649a81fedcd2594434e5a2f962ea1e5e7de82d1446ea/47.jpg"
-                ]
-            },
-            {
-                "trgovina": "E.LECLERC",
-                "naslov": "E.LECLERC katalog - Katalog Velika noč (2026-03-25 - 2026-04-04)",
-                "datum": "2026-03-25",
-                "slike": [
-                    "https://priserocdn.com/m2/si/236f149e23c474bd8246e1240c6f65f25e4dc66555371a33059ecf9103e6cc1b/0.jpg",
-                    "https://priserocdn.com/m2/si/236f149e23c474bd8246e1240c6f65f25e4dc66555371a33059ecf9103e6cc1b/1.jpg",
-                    "https://priserocdn.com/m2/si/236f149e23c474bd8246e1240c6f65f25e4dc66555371a33059ecf9103e6cc1b/2.jpg",
-                    "https://priserocdn.com/m2/si/236f149e23c474bd8246e1240c6f65f25e4dc66555371a33059ecf9103e6cc1b/3.jpg",
-                    "https://priserocdn.com/m2/si/236f149e23c474bd8246e1240c6f65f25e4dc66555371a33059ecf9103e6cc1b/4.jpg",
-                    "https://priserocdn.com/m2/si/236f149e23c474bd8246e1240c6f65f25e4dc66555371a33059ecf9103e6cc1b/5.jpg",
-                    "https://priserocdn.com/m2/si/236f149e23c474bd8246e1240c6f65f25e4dc66555371a33059ecf9103e6cc1b/6.jpg"
                 ]
             },
             {
@@ -818,17 +850,17 @@
             },
             {
                 "trgovina": "Bela",
-                "naslov": "Bela plus katalog od 01.03.2026 Katalog (2026-03-01 - 2026-03-31)",
+                "naslov": "Bela plus katalog (2026-03-01 - 2026-03-31)",
                 "datum": "2026-03-01",
                 "slike": [
-                    "https://priserocdn.com/f2/si/bd35ecd9dbc66e6db8863a668301864e1392f5632b118c02711907f46973423c/0.jpg",
-                    "https://priserocdn.com/f2/si/bd35ecd9dbc66e6db8863a668301864e1392f5632b118c02711907f46973423c/2.jpg",
-                    "https://priserocdn.com/f2/si/bd35ecd9dbc66e6db8863a668301864e1392f5632b118c02711907f46973423c/3.jpg",
-                    "https://priserocdn.com/f2/si/bd35ecd9dbc66e6db8863a668301864e1392f5632b118c02711907f46973423c/4.jpg",
-                    "https://priserocdn.com/f2/si/bd35ecd9dbc66e6db8863a668301864e1392f5632b118c02711907f46973423c/5.jpg",
-                    "https://priserocdn.com/f2/si/bd35ecd9dbc66e6db8863a668301864e1392f5632b118c02711907f46973423c/6.jpg",
-                    "https://priserocdn.com/f2/si/bd35ecd9dbc66e6db8863a668301864e1392f5632b118c02711907f46973423c/7.jpg",
-                    "https://priserocdn.com/f2/si/bd35ecd9dbc66e6db8863a668301864e1392f5632b118c02711907f46973423c/8.jpg"
+                    "https://priserocdn.com/k2/si/20b7e9853d7d1b0ebca7103391163e5c0d2b87c01a5bfa4f400182912ddcb11c/0.jpg",
+                    "https://priserocdn.com/k2/si/20b7e9853d7d1b0ebca7103391163e5c0d2b87c01a5bfa4f400182912ddcb11c/1.jpg",
+                    "https://priserocdn.com/k2/si/20b7e9853d7d1b0ebca7103391163e5c0d2b87c01a5bfa4f400182912ddcb11c/2.jpg",
+                    "https://priserocdn.com/k2/si/20b7e9853d7d1b0ebca7103391163e5c0d2b87c01a5bfa4f400182912ddcb11c/3.jpg",
+                    "https://priserocdn.com/k2/si/20b7e9853d7d1b0ebca7103391163e5c0d2b87c01a5bfa4f400182912ddcb11c/4.jpg",
+                    "https://priserocdn.com/k2/si/20b7e9853d7d1b0ebca7103391163e5c0d2b87c01a5bfa4f400182912ddcb11c/5.jpg",
+                    "https://priserocdn.com/k2/si/20b7e9853d7d1b0ebca7103391163e5c0d2b87c01a5bfa4f400182912ddcb11c/6.jpg",
+                    "https://priserocdn.com/k2/si/20b7e9853d7d1b0ebca7103391163e5c0d2b87c01a5bfa4f400182912ddcb11c/7.jpg"
                 ]
             },
             {
@@ -1066,6 +1098,25 @@
                 ]
             },
             {
+                "trgovina": "Kalia",
+                "naslov": "Kalia katalog od 23.03.2026 Kalia katalog (2026-03-23 - 2026-04-12)",
+                "datum": "2026-03-23",
+                "slike": [
+                    "https://priserocdn.com/f2/si/0f36443408d1a7c16570592c95877c286e6091fbb5bd360188649c2681e76bb9/0.jpg",
+                    "https://priserocdn.com/f2/si/0f36443408d1a7c16570592c95877c286e6091fbb5bd360188649c2681e76bb9/2.jpg",
+                    "https://priserocdn.com/f2/si/0f36443408d1a7c16570592c95877c286e6091fbb5bd360188649c2681e76bb9/3.jpg",
+                    "https://priserocdn.com/f2/si/0f36443408d1a7c16570592c95877c286e6091fbb5bd360188649c2681e76bb9/4.jpg",
+                    "https://priserocdn.com/f2/si/0f36443408d1a7c16570592c95877c286e6091fbb5bd360188649c2681e76bb9/5.jpg",
+                    "https://priserocdn.com/f2/si/0f36443408d1a7c16570592c95877c286e6091fbb5bd360188649c2681e76bb9/6.jpg",
+                    "https://priserocdn.com/f2/si/0f36443408d1a7c16570592c95877c286e6091fbb5bd360188649c2681e76bb9/7.jpg",
+                    "https://priserocdn.com/f2/si/0f36443408d1a7c16570592c95877c286e6091fbb5bd360188649c2681e76bb9/8.jpg",
+                    "https://priserocdn.com/f2/si/0f36443408d1a7c16570592c95877c286e6091fbb5bd360188649c2681e76bb9/9.jpg",
+                    "https://priserocdn.com/f2/si/0f36443408d1a7c16570592c95877c286e6091fbb5bd360188649c2681e76bb9/10.jpg",
+                    "https://priserocdn.com/f2/si/0f36443408d1a7c16570592c95877c286e6091fbb5bd360188649c2681e76bb9/11.jpg",
+                    "https://priserocdn.com/f2/si/0f36443408d1a7c16570592c95877c286e6091fbb5bd360188649c2681e76bb9/12.jpg"
+                ]
+            },
+            {
                 "trgovina": "OBI",
                 "naslov": "OBI katalog - Od torka, 3. 3. 2026 (2026-03-03 - 2026-03-31)",
                 "datum": "2026-03-03",
@@ -1103,8 +1154,7 @@
                     "https://priserocdn.com/k2/si/84599e9f4a57fbdec43d1f50ef8e1bb3ecdd65778afd4fc9f9443d4ae7f86309/4.jpg",
                     "https://priserocdn.com/k2/si/84599e9f4a57fbdec43d1f50ef8e1bb3ecdd65778afd4fc9f9443d4ae7f86309/5.jpg",
                     "https://priserocdn.com/k2/si/84599e9f4a57fbdec43d1f50ef8e1bb3ecdd65778afd4fc9f9443d4ae7f86309/6.jpg",
-                    "https://priserocdn.com/k2/si/84599e9f4a57fbdec43d1f50ef8e1bb3ecdd65778afd4fc9f9443d4ae7f86309/7.jpg",
-                    "https://priserocdn.com/k2/si/5557b9dd9809739545307e4a783e01fb16ef31767c8d05f678216d08c5b0c421/featured_image.jpg"
+                    "https://priserocdn.com/k2/si/84599e9f4a57fbdec43d1f50ef8e1bb3ecdd65778afd4fc9f9443d4ae7f86309/7.jpg"
                 ]
             },
             {
@@ -1120,37 +1170,6 @@
                     "https://priserocdn.com/k2/si/ed6aa047b877aa9df3ff26095aad030e4748f553789723df654849e2c1782283/5.jpg",
                     "https://priserocdn.com/k2/si/ed6aa047b877aa9df3ff26095aad030e4748f553789723df654849e2c1782283/6.jpg",
                     "https://priserocdn.com/k2/si/ed6aa047b877aa9df3ff26095aad030e4748f553789723df654849e2c1782283/7.jpg"
-                ]
-            },
-            {
-                "trgovina": "Rutar",
-                "naslov": "Rutar katalog (2026-03-10 - 2026-03-23)",
-                "datum": "2026-03-10",
-                "slike": [
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/0.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/1.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/2.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/3.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/4.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/5.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/6.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/7.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/8.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/9.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/10.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/11.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/12.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/13.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/14.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/15.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/16.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/17.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/18.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/19.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/20.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/21.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/22.jpg",
-                    "https://priserocdn.com/k2/si/013a3f7950f67b185e58bd9d69e8d46d87891231e3d7f4a9e76e7e6a1e8c4882/23.jpg"
                 ]
             },
             {
@@ -1174,6 +1193,21 @@
                     "https://priserocdn.com/k2/si/c47a583926790be3db3aba6bc2af2dd74ad73eb2bd25132186e74d0c99f5857d/13.jpg",
                     "https://priserocdn.com/k2/si/c47a583926790be3db3aba6bc2af2dd74ad73eb2bd25132186e74d0c99f5857d/14.jpg",
                     "https://priserocdn.com/k2/si/c47a583926790be3db3aba6bc2af2dd74ad73eb2bd25132186e74d0c99f5857d/15.jpg"
+                ]
+            },
+            {
+                "trgovina": "Rutar",
+                "naslov": "Rutar katalog (2025-10-28 - 2026-11-04)",
+                "datum": "2025-10-28",
+                "slike": [
+                    "https://priserocdn.com/k2/si/8eb066bdb93399ce8191f22657bfbcdd33f6d38b5676d1cac0b7155ec02da1c7/0.jpg",
+                    "https://priserocdn.com/k2/si/8eb066bdb93399ce8191f22657bfbcdd33f6d38b5676d1cac0b7155ec02da1c7/1.jpg",
+                    "https://priserocdn.com/k2/si/8eb066bdb93399ce8191f22657bfbcdd33f6d38b5676d1cac0b7155ec02da1c7/2.jpg",
+                    "https://priserocdn.com/k2/si/8eb066bdb93399ce8191f22657bfbcdd33f6d38b5676d1cac0b7155ec02da1c7/3.jpg",
+                    "https://priserocdn.com/k2/si/8eb066bdb93399ce8191f22657bfbcdd33f6d38b5676d1cac0b7155ec02da1c7/4.jpg",
+                    "https://priserocdn.com/k2/si/8eb066bdb93399ce8191f22657bfbcdd33f6d38b5676d1cac0b7155ec02da1c7/5.jpg",
+                    "https://priserocdn.com/k2/si/8eb066bdb93399ce8191f22657bfbcdd33f6d38b5676d1cac0b7155ec02da1c7/6.jpg",
+                    "https://priserocdn.com/k2/si/8eb066bdb93399ce8191f22657bfbcdd33f6d38b5676d1cac0b7155ec02da1c7/7.jpg"
                 ]
             },
             {
