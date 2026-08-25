@@ -4,7 +4,7 @@
             {
                 "trgovina": "Hofer",
                 "naslov": "Hofer katalog",
-                "datum": "2026-08-24",
+                "datum": "2026-08-25",
                 "slike": [
                     "https://priserocdn.com/k2/si/644fc5b2ef6ed8eb9cabce3fdfed23fc4f8ebedf0dc1e2a2b4bf1b6a44bf8c95/0.jpg",
                     "https://priserocdn.com/k2/si/644fc5b2ef6ed8eb9cabce3fdfed23fc4f8ebedf0dc1e2a2b4bf1b6a44bf8c95/1.jpg",
@@ -35,7 +35,7 @@
             {
                 "trgovina": "Lidl",
                 "naslov": "Lidl katalog šolske potrebščine",
-                "datum": "2026-08-24",
+                "datum": "2026-08-25",
                 "slike": [
                     "https://priserocdn.com/k2/si/8bf0a377d3b50464d0aedc28f20b863737c6dd2bb8a7872fdecc241c8e1ff312/0.jpg",
                     "https://priserocdn.com/k2/si/8bf0a377d3b50464d0aedc28f20b863737c6dd2bb8a7872fdecc241c8e1ff312/1.jpg",
@@ -64,7 +64,7 @@
             {
                 "trgovina": "Lidl",
                 "naslov": "Lidl katalog",
-                "datum": "2026-08-24",
+                "datum": "2026-08-25",
                 "slike": [
                     "https://priserocdn.com/k2/si/0f19e2c18be701c45c368baee05d5b540d003baa6359509d59b058f1eae9184a/0.jpg",
                     "https://priserocdn.com/k2/si/0f19e2c18be701c45c368baee05d5b540d003baa6359509d59b058f1eae9184a/1.jpg",
@@ -133,7 +133,7 @@
             {
                 "trgovina": "Spar",
                 "naslov": "Spar katalog sladoledi 2026",
-                "datum": "2026-08-24",
+                "datum": "2026-08-25",
                 "slike": [
                     "https://priserocdn.com/k2/si/ae8b60eb66a056ad4bd51feb1c021ecefe21d2901511f94fee56da5779307734/0.jpg",
                     "https://priserocdn.com/k2/si/ae8b60eb66a056ad4bd51feb1c021ecefe21d2901511f94fee56da5779307734/1.jpg",
@@ -165,7 +165,7 @@
             {
                 "trgovina": "Spar",
                 "naslov": "Spar katalog Trajnostni vodnik",
-                "datum": "2026-08-24",
+                "datum": "2026-08-25",
                 "slike": [
                     "https://priserocdn.com/k2/si/467e8a73fd1edc53ff24e0d0c4d1e9a1dd4f3c6890601a980baeb7c6e46fbaa8/0.jpg",
                     "https://priserocdn.com/k2/si/467e8a73fd1edc53ff24e0d0c4d1e9a1dd4f3c6890601a980baeb7c6e46fbaa8/1.jpg",
@@ -201,7 +201,7 @@
             {
                 "trgovina": "Mercator",
                 "naslov": "Mercator katalog veselo v šolo",
-                "datum": "2026-08-24",
+                "datum": "2026-08-25",
                 "slike": [
                     "https://priserocdn.com/k2/si/458d5c63275dba79ed7a076604bafb2acfa0b30288a3fc317fd898a917a86a15/0.jpg",
                     "https://priserocdn.com/k2/si/458d5c63275dba79ed7a076604bafb2acfa0b30288a3fc317fd898a917a86a15/1.jpg",
@@ -240,7 +240,7 @@
             {
                 "trgovina": "Mercator",
                 "naslov": "Mercator katalog cash&carry",
-                "datum": "2026-08-24",
+                "datum": "2026-08-25",
                 "slike": [
                     "https://priserocdn.com/k2/si/8a4f83f05c7b883604a4db65e3e9298463eb13fb8a1944ee3323ed733d007304/0.jpg",
                     "https://priserocdn.com/k2/si/8a4f83f05c7b883604a4db65e3e9298463eb13fb8a1944ee3323ed733d007304/1.jpg",
@@ -271,7 +271,7 @@
             {
                 "trgovina": "Eurospin",
                 "naslov": "Eurospin katalog",
-                "datum": "2026-08-24",
+                "datum": "2026-08-25",
                 "slike": [
                     "https://priserocdn.com/k2/si/3596aa247b5e95a515bc7a0363e0524a8857fd136556738f5e56c99fdd0db376/0.jpg",
                     "https://priserocdn.com/k2/si/3596aa247b5e95a515bc7a0363e0524a8857fd136556738f5e56c99fdd0db376/1.jpg",
@@ -292,9 +292,32 @@
                 ]
             },
             {
+                "trgovina": "Eurospin",
+                "naslov": "Eurospin katalog",
+                "datum": "2026-08-25",
+                "slike": [
+                    "https://priserocdn.com/k2/si/7fc5ef6f7cf42029019383b82eef8612bdfc91fa8bd0c6b74368acbf3a26b445/0.jpg",
+                    "https://priserocdn.com/k2/si/7fc5ef6f7cf42029019383b82eef8612bdfc91fa8bd0c6b74368acbf3a26b445/1.jpg",
+                    "https://priserocdn.com/k2/si/7fc5ef6f7cf42029019383b82eef8612bdfc91fa8bd0c6b74368acbf3a26b445/2.jpg",
+                    "https://priserocdn.com/k2/si/7fc5ef6f7cf42029019383b82eef8612bdfc91fa8bd0c6b74368acbf3a26b445/3.jpg",
+                    "https://priserocdn.com/k2/si/7fc5ef6f7cf42029019383b82eef8612bdfc91fa8bd0c6b74368acbf3a26b445/4.jpg",
+                    "https://priserocdn.com/k2/si/7fc5ef6f7cf42029019383b82eef8612bdfc91fa8bd0c6b74368acbf3a26b445/5.jpg",
+                    "https://priserocdn.com/k2/si/7fc5ef6f7cf42029019383b82eef8612bdfc91fa8bd0c6b74368acbf3a26b445/6.jpg",
+                    "https://priserocdn.com/k2/si/7fc5ef6f7cf42029019383b82eef8612bdfc91fa8bd0c6b74368acbf3a26b445/7.jpg",
+                    "https://priserocdn.com/k2/si/7fc5ef6f7cf42029019383b82eef8612bdfc91fa8bd0c6b74368acbf3a26b445/8.jpg",
+                    "https://priserocdn.com/k2/si/7fc5ef6f7cf42029019383b82eef8612bdfc91fa8bd0c6b74368acbf3a26b445/9.jpg",
+                    "https://priserocdn.com/k2/si/7fc5ef6f7cf42029019383b82eef8612bdfc91fa8bd0c6b74368acbf3a26b445/10.jpg",
+                    "https://priserocdn.com/k2/si/7fc5ef6f7cf42029019383b82eef8612bdfc91fa8bd0c6b74368acbf3a26b445/11.jpg",
+                    "https://priserocdn.com/k2/si/7fc5ef6f7cf42029019383b82eef8612bdfc91fa8bd0c6b74368acbf3a26b445/12.jpg",
+                    "https://priserocdn.com/k2/si/7fc5ef6f7cf42029019383b82eef8612bdfc91fa8bd0c6b74368acbf3a26b445/13.jpg",
+                    "https://priserocdn.com/k2/si/7fc5ef6f7cf42029019383b82eef8612bdfc91fa8bd0c6b74368acbf3a26b445/14.jpg",
+                    "https://priserocdn.com/k2/si/7fc5ef6f7cf42029019383b82eef8612bdfc91fa8bd0c6b74368acbf3a26b445/15.jpg"
+                ]
+            },
+            {
                 "trgovina": "Jager",
                 "naslov": "Jager katalog",
-                "datum": "2026-08-24",
+                "datum": "2026-08-25",
                 "slike": [
                     "https://priserocdn.com/k2/si/f336e6d8f12f48845e14614c41a20e3dc3eb81925a21654ce80da52b66362292/0.jpg",
                     "https://priserocdn.com/k2/si/f336e6d8f12f48845e14614c41a20e3dc3eb81925a21654ce80da52b66362292/1.jpg",
@@ -316,7 +339,7 @@
             {
                 "trgovina": "Jager",
                 "naslov": "Jager katalog textil",
-                "datum": "2026-08-24",
+                "datum": "2026-08-25",
                 "slike": [
                     "https://priserocdn.com/k2/si/bb8d0b66f9735697143386ca4de2e13f58adeda1e50d31b57fefbbc988097e29/0.jpg",
                     "https://priserocdn.com/k2/si/bb8d0b66f9735697143386ca4de2e13f58adeda1e50d31b57fefbbc988097e29/1.jpg",
@@ -326,7 +349,7 @@
             {
                 "trgovina": "Tuš",
                 "naslov": "Tuš katalog",
-                "datum": "2026-08-24",
+                "datum": "2026-08-25",
                 "slike": [
                     "https://priserocdn.com/k2/si/7748cdeb9521d952d122200fa344ab1e956b5804066609804772472f04a64522/0.jpg",
                     "https://priserocdn.com/k2/si/7748cdeb9521d952d122200fa344ab1e956b5804066609804772472f04a64522/1.jpg",
@@ -357,7 +380,7 @@
             {
                 "trgovina": "Tuš",
                 "naslov": "Tuš katalog cash&carry trgovec",
-                "datum": "2026-08-24",
+                "datum": "2026-08-25",
                 "slike": [
                     "https://priserocdn.com/k2/si/8166cbb6b575adcb1cd9278b33d82ad5aa1c091b6ef4d6ba5ea5e6ceceb0fbe2/0.jpg",
                     "https://priserocdn.com/k2/si/8166cbb6b575adcb1cd9278b33d82ad5aa1c091b6ef4d6ba5ea5e6ceceb0fbe2/1.jpg",
@@ -388,7 +411,7 @@
             {
                 "trgovina": "Ahac",
                 "naslov": "Ahac katalog",
-                "datum": "2026-08-24",
+                "datum": "2026-08-25",
                 "slike": [
                     "https://priserocdn.com/k2/si/09a92dde390db235ceb0b9b2a294ff5e5ba7c84811f87246b1a12b128fa76b9d/0.jpg",
                     "https://priserocdn.com/k2/si/09a92dde390db235ceb0b9b2a294ff5e5ba7c84811f87246b1a12b128fa76b9d/1.jpg",
@@ -411,6 +434,7 @@
                     "https://priserocdn.com/k2/si/09a92dde390db235ceb0b9b2a294ff5e5ba7c84811f87246b1a12b128fa76b9d/18.jpg",
                     "https://priserocdn.com/k2/si/09a92dde390db235ceb0b9b2a294ff5e5ba7c84811f87246b1a12b128fa76b9d/19.jpg",
                     "https://priserocdn.com/k2/si/09a92dde390db235ceb0b9b2a294ff5e5ba7c84811f87246b1a12b128fa76b9d/20.jpg",
+                    "https://priserocdn.com/k2/si/09a92dde390db235ceb0b9b2a294ff5e5ba7c84811f87246b1a12b128fa76b9d/21.jpg",
                     "https://priserocdn.com/k2/si/09a92dde390db235ceb0b9b2a294ff5e5ba7c84811f87246b1a12b128fa76b9d/22.jpg",
                     "https://priserocdn.com/k2/si/09a92dde390db235ceb0b9b2a294ff5e5ba7c84811f87246b1a12b128fa76b9d/23.jpg"
                 ]
